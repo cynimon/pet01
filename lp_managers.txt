@@ -1,0 +1,7 @@
+ADMINS/
+admin/admin123
+
+MODS/
+moder1/moder3
+moder2/moder2
+moder3/moder3moder4/moder4
